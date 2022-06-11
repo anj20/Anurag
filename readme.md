@@ -35,7 +35,6 @@
 
 ---
 ### ❤ Views and Followers
-<br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=anj20">
 </a>
@@ -43,7 +42,7 @@
 
 
 <details>
-  <summaryGitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anj20&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
