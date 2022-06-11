@@ -34,21 +34,6 @@
 <br />
 
 ---
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/anurag-narayan-jena-855591224/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://twitter.com/Abhas_15"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
-<a href = "https://www.instagram.com/thetheophany/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://www.youtube.com/channel/UCipzV1GtvIO7zhujvUhw29g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-
-</p>
-
-### ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=anj20">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/anj20?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="center">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhas streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhas-15&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -66,7 +51,22 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Abhas-15github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhas-15&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/anj20github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anj20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/anurag-narayan-jena-855591224/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = "https://twitter.com/Abhas_15"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+<a href = "https://www.instagram.com/thetheophany/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href = "https://www.youtube.com/channel/UCipzV1GtvIO7zhujvUhw29g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+
+</p>
+
+### ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=anj20">
+</a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/anj20?label=Followers&style=social" alt="GitHub Badge"></a>
