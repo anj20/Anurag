@@ -11,14 +11,6 @@
 </div>
 
 
-<!-- <div align="center">
-<br> 
-<img src="./dock.jpg" width="80%" height="40px">
-</div> -->
-
-# Hi there, I'm Anurag Narayan Jena 👋
-
-
 ## I'm a College Student, Developer, and Competative Coder!!
 
 - 👯 I’m a Fresher of ECE department of NIT Rourkela
