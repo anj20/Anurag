@@ -7,7 +7,7 @@
     <br>
     <img src="./work.gif" height="60px">
     <br><br>
-    <img src="./goblin_slayer.gif"  width="400px"/>
+    <img src="./Devgif.gif"  width="400px"/>
 </div>
 
 
