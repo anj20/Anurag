@@ -73,4 +73,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=anj20">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/anj20?label=Followers&style=social" alt="GitHub Badge"></a>
+
